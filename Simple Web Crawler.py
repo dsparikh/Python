@@ -24,5 +24,3 @@ def get_data(item_url):
         print (item_name.string)
 
 spider(3)
-
-
