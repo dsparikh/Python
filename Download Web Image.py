@@ -7,4 +7,3 @@ def download_web_image(url):
     urllib.request.urlretrieve(url, full_name)
 
 download_web_image("https://realpython.com/learn/python-first-steps/images/pythonlogo.jpg")
-
